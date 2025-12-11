@@ -1,0 +1,74 @@
+[
+{
+  "directory": "/home/xyx/mprpc/build",
+  "command": "/usr/bin/c++ -I/home/xyx/mprpc/src/include -I/home/xyx/mprpc/src -I/home/xyx/mprpc/example -g -o src/CMakeFiles/mprpc.dir/mprpcapplication.cc.o -c /home/xyx/mprpc/src/mprpcapplication.cc",
+  "file": "/home/xyx/mprpc/src/mprpcapplication.cc",
+  "output": "src/CMakeFiles/mprpc.dir/mprpcapplication.cc.o"
+},
+{
+  "directory": "/home/xyx/mprpc/build",
+  "command": "/usr/bin/c++ -I/home/xyx/mprpc/src/include -I/home/xyx/mprpc/src -I/home/xyx/mprpc/example -g -o src/CMakeFiles/mprpc.dir/mprpcconfig.cc.o -c /home/xyx/mprpc/src/mprpcconfig.cc",
+  "file": "/home/xyx/mprpc/src/mprpcconfig.cc",
+  "output": "src/CMakeFiles/mprpc.dir/mprpcconfig.cc.o"
+},
+{
+  "directory": "/home/xyx/mprpc/build",
+  "command": "/usr/bin/c++ -I/home/xyx/mprpc/src/include -I/home/xyx/mprpc/src -I/home/xyx/mprpc/example -g -o src/CMakeFiles/mprpc.dir/rpcheader.pb.cc.o -c /home/xyx/mprpc/src/rpcheader.pb.cc",
+  "file": "/home/xyx/mprpc/src/rpcheader.pb.cc",
+  "output": "src/CMakeFiles/mprpc.dir/rpcheader.pb.cc.o"
+},
+{
+  "directory": "/home/xyx/mprpc/build",
+  "command": "/usr/bin/c++ -I/home/xyx/mprpc/src/include -I/home/xyx/mprpc/src -I/home/xyx/mprpc/example -g -o src/CMakeFiles/mprpc.dir/rpcprovider.cc.o -c /home/xyx/mprpc/src/rpcprovider.cc",
+  "file": "/home/xyx/mprpc/src/rpcprovider.cc",
+  "output": "src/CMakeFiles/mprpc.dir/rpcprovider.cc.o"
+},
+{
+  "directory": "/home/xyx/mprpc/build",
+  "command": "/usr/bin/c++ -I/home/xyx/mprpc/src/include -I/home/xyx/mprpc/src -I/home/xyx/mprpc/example -g -o src/CMakeFiles/mprpc.dir/mprpcchannel.cc.o -c /home/xyx/mprpc/src/mprpcchannel.cc",
+  "file": "/home/xyx/mprpc/src/mprpcchannel.cc",
+  "output": "src/CMakeFiles/mprpc.dir/mprpcchannel.cc.o"
+},
+{
+  "directory": "/home/xyx/mprpc/build",
+  "command": "/usr/bin/c++ -I/home/xyx/mprpc/src/include -I/home/xyx/mprpc/src -I/home/xyx/mprpc/example -g -o src/CMakeFiles/mprpc.dir/mprpccontoller.cc.o -c /home/xyx/mprpc/src/mprpccontoller.cc",
+  "file": "/home/xyx/mprpc/src/mprpccontoller.cc",
+  "output": "src/CMakeFiles/mprpc.dir/mprpccontoller.cc.o"
+},
+{
+  "directory": "/home/xyx/mprpc/build",
+  "command": "/usr/bin/c++ -I/home/xyx/mprpc/src/include -I/home/xyx/mprpc/src -I/home/xyx/mprpc/example -g -o src/CMakeFiles/mprpc.dir/logger.cc.o -c /home/xyx/mprpc/src/logger.cc",
+  "file": "/home/xyx/mprpc/src/logger.cc",
+  "output": "src/CMakeFiles/mprpc.dir/logger.cc.o"
+},
+{
+  "directory": "/home/xyx/mprpc/build",
+  "command": "/usr/bin/c++ -I/home/xyx/mprpc/src/include -I/home/xyx/mprpc/src -I/home/xyx/mprpc/example -g -o src/CMakeFiles/mprpc.dir/zookeeperutil.cc.o -c /home/xyx/mprpc/src/zookeeperutil.cc",
+  "file": "/home/xyx/mprpc/src/zookeeperutil.cc",
+  "output": "src/CMakeFiles/mprpc.dir/zookeeperutil.cc.o"
+},
+{
+  "directory": "/home/xyx/mprpc/build",
+  "command": "/usr/bin/c++ -I/home/xyx/mprpc/src/include -I/home/xyx/mprpc/src -I/home/xyx/mprpc/example -g -o example/callee/CMakeFiles/provider.dir/friendservice.cc.o -c /home/xyx/mprpc/example/callee/friendservice.cc",
+  "file": "/home/xyx/mprpc/example/callee/friendservice.cc",
+  "output": "example/callee/CMakeFiles/provider.dir/friendservice.cc.o"
+},
+{
+  "directory": "/home/xyx/mprpc/build",
+  "command": "/usr/bin/c++ -I/home/xyx/mprpc/src/include -I/home/xyx/mprpc/src -I/home/xyx/mprpc/example -g -o example/callee/CMakeFiles/provider.dir/__/friend.pb.cc.o -c /home/xyx/mprpc/example/friend.pb.cc",
+  "file": "/home/xyx/mprpc/example/friend.pb.cc",
+  "output": "example/callee/CMakeFiles/provider.dir/__/friend.pb.cc.o"
+},
+{
+  "directory": "/home/xyx/mprpc/build",
+  "command": "/usr/bin/c++ -I/home/xyx/mprpc/src/include -I/home/xyx/mprpc/src -I/home/xyx/mprpc/example -g -o example/caller/CMakeFiles/consumer.dir/callfriendservice.cc.o -c /home/xyx/mprpc/example/caller/callfriendservice.cc",
+  "file": "/home/xyx/mprpc/example/caller/callfriendservice.cc",
+  "output": "example/caller/CMakeFiles/consumer.dir/callfriendservice.cc.o"
+},
+{
+  "directory": "/home/xyx/mprpc/build",
+  "command": "/usr/bin/c++ -I/home/xyx/mprpc/src/include -I/home/xyx/mprpc/src -I/home/xyx/mprpc/example -g -o example/caller/CMakeFiles/consumer.dir/__/friend.pb.cc.o -c /home/xyx/mprpc/example/friend.pb.cc",
+  "file": "/home/xyx/mprpc/example/friend.pb.cc",
+  "output": "example/caller/CMakeFiles/consumer.dir/__/friend.pb.cc.o"
+}
+]

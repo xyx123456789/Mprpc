@@ -1,0 +1,7 @@
+
+22:25:6 =>friendservice start!
+22:25:6 =>/home/xyx/mprpc/example/callee/friendservice.cc:main:44
+22:25:10 =>friendservice start!
+22:25:10 =>/home/xyx/mprpc/example/callee/friendservice.cc:main:44
+22:36:46 =>[error]friendservice start!
+22:36:46 =>[error]/home/xyx/mprpc/example/callee/friendservice.cc:main:44

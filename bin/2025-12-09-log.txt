@@ -1,0 +1,4 @@
+22:34:46 =>[error]friendservice start!
+22:34:46 =>[error]/home/xyx/mprpc/example/callee/friendservice.cc:main:44
+22:34:46 =>[info]serive_name:FriendServiceRpc
+22:34:46 =>[info]method_name:GetFriendList
